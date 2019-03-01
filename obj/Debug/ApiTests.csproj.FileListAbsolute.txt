@@ -1,0 +1,17 @@
+C:\Users\mariia.kozhyna\source\repos\ApiTests\ApiTests\obj\Debug\ApiTests.csprojAssemblyReference.cache
+C:\Users\mariia.kozhyna\source\repos\ApiTests\ApiTests\obj\Debug\ApiTests.csproj.CoreCompileInputs.cache
+C:\Users\mariia.kozhyna\source\repos\ApiTests\ApiTests\bin\Debug\ApiTests.exe.config
+C:\Users\mariia.kozhyna\source\repos\ApiTests\ApiTests\bin\Debug\ApiTests.exe
+C:\Users\mariia.kozhyna\source\repos\ApiTests\ApiTests\bin\Debug\ApiTests.pdb
+C:\Users\mariia.kozhyna\source\repos\ApiTests\ApiTests\obj\Debug\ApiTests.exe
+C:\Users\mariia.kozhyna\source\repos\ApiTests\ApiTests\obj\Debug\ApiTests.pdb
+C:\Users\mariia.kozhyna\source\repos\ApiTests\ApiTests\bin\Debug\FluentAssertions.dll
+C:\Users\mariia.kozhyna\source\repos\ApiTests\ApiTests\bin\Debug\System.ValueTuple.dll
+C:\Users\mariia.kozhyna\source\repos\ApiTests\ApiTests\bin\Debug\FluentAssertions.pdb
+C:\Users\mariia.kozhyna\source\repos\ApiTests\ApiTests\bin\Debug\FluentAssertions.xml
+C:\Users\mariia.kozhyna\source\repos\ApiTests\ApiTests\bin\Debug\System.ValueTuple.xml
+C:\Users\mariia.kozhyna\source\repos\ApiTests\ApiTests\obj\Debug\ApiTests.csproj.CopyComplete
+C:\Users\mariia.kozhyna\source\repos\ApiTests\ApiTests\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mariia.kozhyna\source\repos\ApiTests\ApiTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mariia.kozhyna\source\repos\ApiTests\ApiTests\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mariia.kozhyna\source\repos\ApiTests\ApiTests\bin\Debug\Newtonsoft.Json.dll
